@@ -20,6 +20,3 @@ The dashboard was created using Power BI by following a guided tutorial and anal
 ## How to View
 Download the `.pbix` file and open it in Power BI Desktop.
 
-## Acknowledgement
-Dashboard inspired from the YouTube tutorial:  
-https://youtu.be/K4IAbQciFt4
